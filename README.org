@@ -4,6 +4,6 @@ A modern and consistent Common Lisp string manipulation library.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/vindarel/cl-str.git |
-| commit  | e49a51b                                    |
+| commit  | 69ef8b4                                    |
 | systems | str                                        |
 |---------+--------------------------------------------|
